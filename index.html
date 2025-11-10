@@ -1,74 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Random Cuisine Generator</title>
-  <style>
-    body { 
-      font-family: Arial, sans-serif; 
-      text-align: center; 
-      background-color: #f9f9f9;
-      margin-top: 120px;
-    }
-    h1 { color: #333; }
-    button {
-      font-size: 18px; 
-      padding: 10px 20px; 
-      cursor: pointer;
-      border-radius: 10px;
-      border: none;
-      background-color: #4CAF50;
-      color: white;
-    }
-    button:hover {
-      background-color: #45a049;
-    }
-    #result {
-      font-size: 24px;
-      margin-top: 30px;
-      color: #222;
-    }
-  </style>
+  <title>Test Page</title>
 </head>
 <body>
-  <h1>🍽 Random Cuisine Generator</h1>
-  <button onclick="rollCuisine()">Roll Cuisine</button>
-  <div id="result">Click the button to choose!</div>
-
-  <script>
-    const cuisines = [
-"Johnny Gio's",
-"Guzman Y Gomez",
-"GK Yeero's",
-"Petra Lebanese Cuisine",
-"Jim's Malaysian",
-"Chopstick Vietnames Cuisine",
-"Kingsway Curry",
-"Vitaly Italian Restraunt",
-"Kuroneko",
-"Somewhere Completely New",
-
-
-
-"Crik's rotting body",
-
-
-    ];
-
-    function rollCuisine() {
-      const randomIndex = Math.floor(Math.random() * cuisines.length);
-      const selectedCuisine = cuisines[randomIndex];
-      document.getElementById("result").textContent = "Tonight’s pick: " + selectedCuisine;
-    }
-  </script>
+  <h1>Hello World</h1>
 </body>
 </html>
-
-<!-- <div>
-"Hungry Jack's (specifically the Octowhopper)",
-"Blood of the First Born",
-"Tears of the Unworthy",
-"Grandma’s Secret Sacrificial Stew",
-
-STOP STARING AT MY CODE
-
-</div> -->

@@ -1,27 +1,32 @@
-h1 {
-  font-family: 'Georgia', serif;
+body {
+  background-image: "images/background";
+  color: #FFF;
+}
+
+#title {
+  font-family: "fonts/modesto-condensed.otf", serif;
   font-size: 50px;
   color: #640000;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   text-align: center;
 }
 
 #text1 {
-  font-family: 'Arial', serif;
+  font-family: "Arial", serif;
   font-size: 12px;
   color: #363636;
   text-align: center;
 }
 
 #result {
-  font-family: 'Arial', serif;
+  font-family: "Arial", serif;
   font-size: 30px;
   color: #363636;
   text-align: center;
 }
 
 #revealButton {
-  font-family: 'Georgia', serif;
+  font-family: "Arial", serif;
   font-size: 18px;
   align: center;
   padding: 10px 20px;
@@ -38,10 +43,10 @@ h1 {
 #revealButton:hover {
   background-color: #000000;
   transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(139,0,0,0.8);
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.8);
 }
 
 #revealButton:active {
   transform: scale(0.95);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }

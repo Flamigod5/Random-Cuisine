@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 const entries = [
-  { text: "Chopstick Vietnames Cuisine", image: "images/chopstick-vietnames-cuisine.jpeg" },
+  { text: "Chopstick Vietnames Cuisine", image: "images/chopstick-vietnamese-cuisine.jpg" },
   { text: "GK Yeero's", image: "images/gk-yeeros.jpg" },
   { text: "Guzman Y Gomez", image: "images/guzman-y-gomez.png" },
   { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg" },

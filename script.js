@@ -1,14 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
 const entries = [
-  { text: "Chopstick Vietnames Cuisine", image: "chopstick-vietnames-cuisine" },
-  { text: "GK Yeero's", image: "gk-yeeros.jpg" },
-  { text: "Guzman Y Gomez", image: "guzman-y-gomez.png" },
-  { text: "Jim's Malaysian", image: "jims-malaysian.jpg" },
-  { text: "Johnny Gio's", image: "johnny-gios.jpeg" },
-  { text: "Kingsway Curry", image: "kingsway-curry.jpg" },
-  { text: "Kuroneko", image: "kuroneko.jpg" },
-  { text: "Petra Lebanese Cuisine", image: "petra-lebanese-cuisine.jpeg" },
-  { text: "Vitaly Italian Restraunt", image: "vitaly-italian-restraunt.jpg" },
+  { text: "Chopstick Vietnames Cuisine", image: "images/chopstick-vietnames-cuisine" },
+  { text: "GK Yeero's", image: "images/gk-yeeros.jpg" },
+  { text: "Guzman Y Gomez", image: "images/guzman-y-gomez.png" },
+  { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg" },
+  { text: "Johnny Gio's", image: "images/johnny-gios.jpeg" },
+  { text: "Kingsway Curry", image: "images/kingsway-curry.jpg" },
+  { text: "Kuroneko", image: "images/kuroneko.jpg" },
+  { text: "Petra Lebanese Cuisine", image: "images/petra-lebanese-cuisine.jpeg" },
+  { text: "Vitaly Italian Restraunt", image: "images/vitaly-italian-restraunt.jpg" },
   
   { text: "Somewhere Completely New", image: "somewhere-completely-new.gif" }
 ];
@@ -21,7 +21,7 @@ const entries = [
 
     resultDiv.innerHTML = `
       <p>${randomEntry.text}</p>
-      <img src="${randomEntry.image}" alt="Encounter Image" width="300">
+      <img src="${randomEntry.image}" alt="insert chopsticks image" width="300">
     `;
   });
 });

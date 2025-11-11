@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 const entries = [
-  { text: "Chopstick Vietnames Cuisine", image: "images/chopstick-vietnames-cuisine" },
+  { text: "Chopstick Vietnames Cuisine", image: "images/chopstick-vietnames-cuisine.jpeg" },
   { text: "GK Yeero's", image: "images/gk-yeeros.jpg" },
   { text: "Guzman Y Gomez", image: "images/guzman-y-gomez.png" },
   { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg" },
@@ -10,7 +10,9 @@ const entries = [
   { text: "Petra Lebanese Cuisine", image: "images/petra-lebanese-cuisine.jpeg" },
   { text: "Vitaly Italian Restraunt", image: "images/vitaly-italian-restraunt.jpg" },
   
-  { text: "Somewhere Completely New", image: "somewhere-completely-new.gif" }
+  { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif" },
+  { text: "Crik's rotting body", image: "images/criks-dead-body.png"}
+  
 ];
 
   const button = document.getElementById("revealButton");

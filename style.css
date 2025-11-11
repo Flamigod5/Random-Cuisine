@@ -1,10 +1,19 @@
 body {
   background-image: url("images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   color: #000000;
 }
 
+
+@font-face {
+  font-family: "Modesto";
+  src: url("fonts/modesto-condensed.otf") format("opentype");
+}
+
 #title {
-  font-family: "fonts/modesto-condensed.otf", serif;
+  font-family: "Modesto", serif;
   font-size: 50px;
   color: #640000;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);

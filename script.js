@@ -23,7 +23,7 @@ const entries = [
 
     resultDiv.innerHTML = `
       <p>${randomEntry.text}</p>
-      <img src="${randomEntry.image}" alt="insert chopsticks image" width="300">
+      <img src="${randomEntry.image}" alt="Broken Image: ${randomEntry.text} " height= "300">
     `;
   });
 });

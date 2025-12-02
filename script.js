@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
     { text: "Crik's rotting body", image: "images/criks-dead-body.png", weight: 3 },
-    { text: "OctoWhopper", image: "images/octowhopper.png", weight: 3 },
+    { text: "OctoWhopper", image: "images/octowhopper.jpg", weight: 3 },
 
     { text: "Golden Egg", image: "images/golden-egg.png", weight: 0.25 }
   

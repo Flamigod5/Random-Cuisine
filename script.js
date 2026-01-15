@@ -1,17 +1,21 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   const entries = [
-    { text: "Chopstick Vietnamese Cuisine", image: "images/chopstick-vietnamese-cuisine.jpg", weight: 5 },
     { text: "GK Yeero's", image: "images/gk-yeeros.jpg", weight: 5 },
     { text: "Guzman Y Gomez", image: "images/guzman-y-gomez.png", weight: 5 },
     { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg", weight: 5 },
     { text: "Johnny Gio's", image: "images/johnny-gios.jpeg", weight: 5 },
-    { text: "Kingsway Curry", image: "images/kingsway-curry.jpg", weight: 5 },
     { text: "Kuroneko", image: "images/kuroneko.jpg", weight: 5 },
     { text: "Petra Lebanese Cuisine", image: "images/petra-lebanese-cuisine.jpeg", weight: 5 },
-    { text: "Vitaly Italian Restraunt", image: "images/vitaly-italian-restraunt.jpg", weight: 5 },
 
-    { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif", weight: 5 },
+    //removed
+    
+    //{ text: "Chopstick Vietnamese Cuisine", image: "images/chopstick-vietnamese-cuisine.jpg", weight: 5 },
+    //{ text: "Vitaly Italian Restraunt", image: "images/vitaly-italian-restraunt.jpg", weight: 5 },
+    //{ text: "Kingsway Curry", image: "images/kingsway-curry.jpg", weight: 5 },
+
+    
+    { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif", weight: 7 },
 
     
     { text: "Crik's rotting body", image: "images/criks-dead-body.png", weight: 3 },

@@ -13,14 +13,12 @@ document.addEventListener("DOMContentLoaded", function () {
     //{ text: "Vitaly Italian Restraunt", image: "images/vitaly-italian-restraunt.jpg", weight: 5 },
     //{ text: "Kingsway Curry", image: "images/kingsway-curry.jpg", weight: 5 },
 
-    
     { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif", weight: 14 },
 
-    
     { text: "Crik's rotting body", image: "images/criks-dead-body.png", weight: 3 },
     { text: "OctoWhopper", image: "images/justin_unhappy.mp4", weight: 3 },
     { text: "Ignoring the Foids while mogging in the club", image: "images/mogging.jpg", weight: 3},
-
+    
     { text: "Golden Egg", image: "images/golden-egg.png", weight: 0.25 }
   
   ];

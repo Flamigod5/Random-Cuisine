@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif", weight: 14 },
 
     { text: "Crik's rotting body", image: "images/criks-dead-body.png", weight: 3 },
-    { text: "OctoWhopper", image: "images/justin_unhappy.gif", weight: 3 },
+    { text: "OctoWhopper", image: "images/justin-unhappy.gif", weight: 3 },
     { text: "Ignoring the Foids while mogging in the club", image: "images/mogging.jpg", weight: 3},
     
     { text: "Golden Egg", image: "images/golden-egg.png", weight: 0.25 }

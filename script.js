@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg", weight: 5 },
     { text: "Johnny Gio's", image: "images/johnny-gios.jpeg", weight: 5 },
     { text: "Kuroneko", image: "images/kuroneko.jpg", weight: 5 },
-    { text: "Frangos", image: "images/frangos/jpeg", weight: 5 },
+    { text: "Frangos", image: "images/frangos/jpg", weight: 5 },
 
     //removed
     //{ text: "Petra Lebanese Cuisine", image: "images/petra-lebanese-cuisine.jpeg", weight: 5 },

@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { text: "Jim's Malaysian", image: "images/jims-malaysian.jpg", weight: 5 },
     { text: "Johnny Gio's", image: "images/johnny-gios.jpeg", weight: 5 },
     { text: "Kuroneko", image: "images/kuroneko.jpg", weight: 5 },
+    { text: "Frangos", image: "images/frangos/jpeg", weight: 5 },
 
     //removed
     //{ text: "Petra Lebanese Cuisine", image: "images/petra-lebanese-cuisine.jpeg", weight: 5 },
@@ -16,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { text: "Somewhere Completely New", image: "images/somewhere-completely-new.gif", weight: 14 },
 
     { text: "Crik's rotting body", image: "images/criks-dead-body.png", weight: 3 },
-    { text: "OctoWhopper", image: "images/justin_unhappy.mp4", weight: 3 },
+    { text: "OctoWhopper", image: "images/justin_unhappy.gif", weight: 3 },
     { text: "Ignoring the Foids while mogging in the club", image: "images/mogging.jpg", weight: 3},
     
     { text: "Golden Egg", image: "images/golden-egg.png", weight: 0.25 }
